@@ -116,6 +116,7 @@ color: #f4f4fd;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    text-transform: capitalize;
 }
 
 .team-item {
@@ -142,10 +143,12 @@ color: #f4f4fd;
 .portfolio-titel {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    text-transform: capitalize
+
 }
 
 .portfolio-item-titel {
@@ -163,7 +166,7 @@ color: #f4f4fd;
     color: #434455;
 }
 
-    .footer-text {
+.footer-text {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
