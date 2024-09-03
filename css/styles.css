@@ -1,5 +1,3 @@
-/*font-family: "Raleway",sans-serif;
-font-family: "Roboto",sans-serif;*/
 
 body {
     background-color: #fff;
@@ -84,6 +82,7 @@ color: #f4f4fd;
     color: #fff;
     text-align: center;
     background-color: #4d5ae5;
+    cursor: pointer;
 }
 
 .button-hero:hover,
@@ -100,7 +99,6 @@ color: #f4f4fd;
 }
 
 .benefits-text {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -134,7 +132,6 @@ color: #f4f4fd;
 }
 
 .team-text {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -160,7 +157,6 @@ color: #f4f4fd;
 }
 
 .portfolio-text {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -168,7 +164,6 @@ color: #f4f4fd;
 }
 
     .footer-text {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
